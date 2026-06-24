@@ -1,0 +1,182 @@
+{
+    "Name": "Default",
+    "Options": {
+        "ApplyWindowSize": true
+    },
+    "Version": 1,
+    "Widgets": [
+        {
+            "SplitterVertical": {
+                "State": "AAAA/wAAAAEAAAADAAAALQAAA3cAAAAcAP////8BAAAAAgA=",
+                "Widgets": [
+                    {
+                        "StatusBar": {
+                        }
+                    },
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAADAAABJAAAAPEAAACUAP////8BAAAAAQA=",
+                            "Widgets": [
+                                {
+                                    "SplitterVertical": {
+                                        "State": "AAAA/wAAAAEAAAACAAAAIAAAA6AA/////wEAAAACAA==",
+                                        "Widgets": [
+                                            {
+                                                "SearchBar": {
+                                                    "AutoSearch": true,
+                                                    "SearchMode": 0,
+                                                    "ShowAll": false,
+                                                    "Widgets": "1c827a58f07a4a939b185d9c0285f936|09356ff889694ff7941174448bd67b7a"
+                                                }
+                                            },
+                                            {
+                                                "SplitterHorizontal": {
+                                                    "State": "AAAA/wAAAAEAAAACAAAAdwAAAD0A/////wEAAAABAA==",
+                                                    "Widgets": [
+                                                        {
+                                                            "LibraryFilter": {
+                                                                "AlternatingRows": false,
+                                                                "Artwork": 0,
+                                                                "AutoSwitch": true,
+                                                                "Captions": 1,
+                                                                "Columns": "1",
+                                                                "Display": 0,
+                                                                "DoubleClickAction": 1,
+                                                                "Group": "Default",
+                                                                "ID": "1c827a58f07a4a939b185d9c0285f936",
+                                                                "IconHeight": 100,
+                                                                "IconHorizontalGap": -1,
+                                                                "IconVerticalGap": 10,
+                                                                "IconWidth": 100,
+                                                                "Index": 0,
+                                                                "KeepAlive": false,
+                                                                "MiddleClickAction": 0,
+                                                                "PlaylistEnabled": true,
+                                                                "PlaylistName": "Sélection du filtrage",
+                                                                "RowHeight": 0,
+                                                                "SendPlayback": true,
+                                                                "ShowHeader": true,
+                                                                "ShowScrollbar": true,
+                                                                "ShowSummary": true,
+                                                                "Source": -1,
+                                                                "State": "AAAAJXjaY2BgYASiCgYwDQaM9h+gDKgAAwAh2gGt"
+                                                            }
+                                                        },
+                                                        {
+                                                            "LibraryFilter": {
+                                                                "AlternatingRows": false,
+                                                                "Artwork": 0,
+                                                                "AutoSwitch": true,
+                                                                "Captions": 1,
+                                                                "Columns": "3",
+                                                                "Display": 0,
+                                                                "DoubleClickAction": 1,
+                                                                "Group": "Default",
+                                                                "ID": "09356ff889694ff7941174448bd67b7a",
+                                                                "IconHeight": 100,
+                                                                "IconHorizontalGap": -1,
+                                                                "IconVerticalGap": 10,
+                                                                "IconWidth": 100,
+                                                                "Index": 1,
+                                                                "KeepAlive": false,
+                                                                "MiddleClickAction": 0,
+                                                                "PlaylistEnabled": true,
+                                                                "PlaylistName": "Sélection du filtrage",
+                                                                "RowHeight": 0,
+                                                                "SendPlayback": true,
+                                                                "ShowHeader": true,
+                                                                "ShowScrollbar": true,
+                                                                "ShowSummary": true,
+                                                                "Source": -1,
+                                                                "State": "AAAAJXjaY2BgYGRgYDjOAKFBgNH+A5QBFWAAACr9Afs="
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "PlaylistTabs": {
+                                        "Widgets": [
+                                            {
+                                                "Playlist": {
+                                                    "Columns": "8:132|3|0:2|1|7:2",
+                                                    "HeaderState": "AAAAZXjaY2BgYGVgYJAB4q1ArAal9Rkg4iDACMRMQMwMxCwgcft1OwJft8rtsL8BpoLst1Q9dF8nUg3n75wJArNAGhn+AwEAC7Uajw==",
+                                                    "ID": "6df0fbb2d7534e14b03b7274581c3dfa",
+                                                    "Preset": 0,
+                                                    "SingleMode": false
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "SplitterVertical": {
+                                        "State": "AAAA/wAAAAEAAAACAAABsQAAAdMA/////wEAAAACAA==",
+                                        "Widgets": [
+                                            {
+                                                "ArtworkPanel": {
+                                                    "CoverAlignment": 132,
+                                                    "CoverType": 0,
+                                                    "FadeCoverChanges": false,
+                                                    "FadeDurationMs": 1000,
+                                                    "KeepAspectRatio": true
+                                                }
+                                            },
+                                            {
+                                                "SelectionInfo": {
+                                                    "AlternatingRows": true,
+                                                    "Options": 87,
+                                                    "ShowHeader": true,
+                                                    "ShowHorizontalScrollbar": false,
+                                                    "ShowVerticalScrollbar": true,
+                                                    "State": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPUAAAACAAAAAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAACAAAAZAAAAAEAAAAAAAAAkQAAAAEAAAACAAAD6AAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=="
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAAEAAAAggAABoIAAAA+AAAAYwD/////AQAAAAEA",
+                            "Widgets": [
+                                {
+                                    "PlayerControls": {
+                                        "ShowNext": true,
+                                        "ShowPlayPause": true,
+                                        "ShowPrevious": true,
+                                        "ShowStop": true
+                                    }
+                                },
+                                {
+                                    "SeekBar": {
+                                        "ShowLabels": true,
+                                        "ShowRemainingTime": false
+                                    }
+                                },
+                                {
+                                    "PlaylistControls": {
+                                    }
+                                },
+                                {
+                                    "VolumeControls": {
+                                        "Mode": 3
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "WindowSize": {
+        "Height": 730,
+        "Width": 1433
+    }
+}

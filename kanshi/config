@@ -1,0 +1,8 @@
+profile external {
+    output DP-2 mode 2560x1440@59.951Hz scale 1.75
+}
+
+profile dual {
+    output eDP-1 enable mode 2560x1440@59.998Hz scale 1
+    output DP-2 mode 2560x1440@59.951Hz scale 1.75
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=noctalia-shell
+Exec=qs -c noctalia-shell
+Terminal=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
