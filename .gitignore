@@ -12,3 +12,7 @@ libreoffice/
 obsidian/
 pcloud/
 dconf/
+
+# Generated cache files
+calibre/fonts/scanner_cache.json
+*.bak

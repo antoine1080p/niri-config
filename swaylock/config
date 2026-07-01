@@ -1,0 +1,41 @@
+# Couleurs (base16 Tokyo Night)
+inside-color              #1a1b26
+inside-clear-color        #1a1b26
+inside-ver-color          #1a1b26
+inside-wrong-color        #1a1b26
+line-color                #565f89
+line-clear-color          #9ece6a
+line-ver-color            #7dcfff
+line-wrong-color          #f7768e
+ring-color                #565f89
+ring-clear-color          #9ece6a
+ring-ver-color            #7dcfff
+ring-wrong-color          #f7768e
+separator-color           #565f89
+text-color                #c0caf5
+text-clear-color          #c0caf5
+text-ver-color            #c0caf5
+text-wrong-color          #c0faf5
+key-hl-color              #7dcfff
+bs-hl-color               #f7768e
+caps-lock-bs-hl-color     #f7768e
+caps-lock-key-hl-color    #7dcfff
+
+# Layout
+layout-bg-color           #1a1b26
+layout-border-color       #24283b
+layout-text-color         #c0caf5
+
+# Font
+font                      JetBrains Mono, monospace
+font-size                 16
+
+# Indicator
+indicator-radius          120
+indicator-thickness       8
+indicator-x-position      0
+indicator-y-position      0
+
+# Comportement
+daemonize
+show-keyboard-layout

@@ -30,7 +30,7 @@
     "audio": {
         "mprisBlacklist": [
         ],
-        "preferredPlayer": "",
+        "preferredPlayer": "fooyin",
         "spectrumFrameRate": 30,
         "spectrumMirrored": true,
         "visualizerType": "linear",
@@ -45,7 +45,7 @@
         "backgroundOpacity": 0.93,
         "barType": "simple",
         "capsuleColorKey": "none",
-        "capsuleOpacity": 1,
+        "capsuleOpacity": 0.43,
         "contentPadding": 2,
         "density": "comfortable",
         "displayMode": "always_visible",
@@ -159,6 +159,13 @@
                     "id": "Tray",
                     "pinned": [
                     ]
+                },
+                {
+                    "displayMode": "onhover",
+                    "iconColor": "none",
+                    "id": "KeyboardLayout",
+                    "showIcon": true,
+                    "textColor": "none"
                 },
                 {
                     "displayMode": "onhover",
@@ -319,6 +326,11 @@
         "gridSnap": false,
         "gridSnapScale": false,
         "monitorWidgets": [
+            {
+                "name": "eDP-1",
+                "widgets": [
+                ]
+            }
         ],
         "overviewEnabled": true
     },
@@ -328,7 +340,7 @@
         "colorizeIcons": false,
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
-        "dockType": "floating",
+        "dockType": "attached",
         "enabled": true,
         "floatingRatio": 1,
         "groupApps": false,
@@ -349,10 +361,11 @@
         "pinnedApps": [
             "org.gnome.Nautilus",
             "zen",
-            "obsidian"
+            "obsidian",
+            "org.mozilla.Thunderbird"
         ],
         "pinnedStatic": false,
-        "position": "bottom",
+        "position": "right",
         "showDockIndicator": false,
         "showLauncherIcon": false,
         "sitOnFrame": false,
@@ -364,7 +377,7 @@
         "animationDisabled": false,
         "animationSpeed": 1,
         "autoStartAuth": false,
-        "avatarImage": "~/avatar.jpg",
+        "avatarImage": "/home/antoine/wallpapers/1000x1000bb.jpg",
         "boxRadiusRatio": 1,
         "clockFormat": "hh\\nmm",
         "clockStyle": "custom",
@@ -482,7 +495,7 @@
         "forced": true,
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
-        "nightTemp": "4000"
+        "nightTemp": "3507"
     },
     "noctaliaPerformance": {
         "disableDesktopWidgets": true,
@@ -830,12 +843,12 @@
         "useOriginalImages": true,
         "useSolidColor": false,
         "useWallhaven": false,
-        "viewMode": "recursive",
+        "viewMode": "browse",
         "wallhavenApiKey": "",
         "wallhavenCategories": "111",
         "wallhavenOrder": "desc",
         "wallhavenPurity": "100",
-        "wallhavenQuery": "flowers painting",
+        "wallhavenQuery": "metropolis",
         "wallhavenRatios": "",
         "wallhavenResolutionHeight": "",
         "wallhavenResolutionMode": "atleast",

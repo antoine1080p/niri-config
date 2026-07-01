@@ -1,0 +1,209 @@
+{
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "bookshelf view visible": false,
+  "cover_grid_background": {
+    "dark": [
+      45,
+      45,
+      45
+    ],
+    "dark_texture": null,
+    "light": [
+      80,
+      80,
+      80
+    ],
+    "light_texture": null,
+    "migrated": true
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 763,
+      "width": 1439,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 763,
+      "width": 1439,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 763,
+      "width": 1439,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABZ4AAAL6AAAAAAAAAAAAAAWeAAAC+gAAAAAAAAAABbcAAAAAAAAAAAAABZ4AAAL6"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 823,
+        "width": 1463,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "LG Display",
+      "model": "0x058B",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 823,
+        "width": 1463
+      },
+      "virtual_geometry": {
+        "height": 823,
+        "width": 1463,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "library_usage_stats": {
+    "/home/antoine/Calibre Library": 4,
+    "/home/antoine/Documents/livres": 3
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.23059866962305986,
+      "cover_browser_width": 0.34980124929017603,
+      "quick_view_height": 0.25609756097560976,
+      "tag_browser_width": 0.2498580352072686
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.29982964224872233,
+      "cover_browser_height": 0.28600823045267487,
+      "quick_view_height": 0.23765432098765432,
+      "tag_browser_width": 0.29982964224872233
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
+  },
+  "quick_start_guide_added": true,
+  "qv_open_at_shutdown": false,
+  "search bar visible": true,
+  "tag browser search box visible": false
+}

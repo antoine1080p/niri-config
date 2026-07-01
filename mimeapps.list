@@ -15,6 +15,7 @@ message/rfc822=userapp-Thunderbird-5204Q3.desktop
 x-scheme-handler/mid=userapp-Thunderbird-5204Q3.desktop
 application/pdf=okularApplication_pdf.desktop
 x-scheme-handler/net.thunderbird=userapp-Thunderbird-DS50Q3.desktop
+x-scheme-handler/claude-cli=claude-code-url-handler.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;

@@ -5,5 +5,13 @@ FullScreen=false
 LockSidebar=true
 ShowSidebar=false
 
+[Recent Files]
+File1[$e]=/run/media/antoine/LaCie/UNI/MISE A NIVEAU/horaire_pdf.gif
+File2[$e]=$HOME/Documents/vieux lacie/PHOTOS 2007-8-9/2598128582_8b50ce8be1_o.jpg
+File3[$e]=$HOME/Pictures/avatar.jpg
+Name1[$e]=horaire_pdf.gif
+Name2[$e]=2598128582_8b50ce8be1_o.jpg
+Name3[$e]=avatar.jpg
+
 [UiSettings]
 ColorScheme=noctalia
